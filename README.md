@@ -55,9 +55,3 @@ The dataset used in this project was sourced from the **PhonePe Pulse GitHub rep
    - Identification of high-usage regions (e.g., Maharashtra, Karnataka).  
    - Growth patterns in digital transactions post-2020.  
    - User adoption trends showing steady rise in digital payments.
-
-Phonepe-EDA-Analysis/
-│
-├── dataset                    # Raw data
-├── Phonepe_EDA_analysis.ipynb # Main notebook
-└── README.md                 # Project overview
